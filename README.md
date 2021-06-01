@@ -4,9 +4,9 @@ I'm iCloExecutable but you know me as micraia on discord
 
 ## Contents
 - [Projects](#projects)
-- [Recent Activities](#Recent Activities)
-- [Personal Loves](#Personal Loves)
-- [Contact Me](#Contact Me)
+- [Recent Activities](#RecentActivities)
+- [Personal Loves](#PersonalLoves)
+- [Contact Me](#ContactMe)
 - [Statistics](#Statistics)
 
 
