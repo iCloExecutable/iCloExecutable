@@ -2,6 +2,14 @@
 
 I'm iCloExecutable but you know me as micraia on discord
 
+## Contents
+- [Projects](#projects)
+- [Recent Activities](#Recent Activities)
+- [Personal Loves](#Personal Loves)
+- [Contact Me](#Contact Me)
+- [Statistics](#Statistics)
+
+
 ## Projects
 * [iCloOS-Classic](https://github.com/iCloExecutable/iCloOS-Classic), An old version of [iCloOS](https://github.com/iCloExecutable/iCloOS).
 * [iCloOS](https://github.com/iCloExecutable/iCloOS), A newer, refreshed and better version of [iCloOS-Classic](https://github.com/iCloExecutable/iCloOS-Classic).
