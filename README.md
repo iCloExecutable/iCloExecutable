@@ -22,8 +22,6 @@ I'm iCloExecutable but you know me as micraia on discord
 ⬆️ Pushed 1 commit to iCloExecutable/iCloOS
 ⬆️ Pushed 1 commit to iCloExecutable/iCloOS
 ⬆️ Pushed 1 commit to iCloExecutable/iCloOS
-
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 ```
 ## Personal-Loves
 * [Raspberry Pi](https://www.raspberrypi.org)
