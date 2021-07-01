@@ -4,7 +4,6 @@ I'm iCloExecutable but you know me as micraia on discord
 
 ## Contents
 - [Projects](#projects)
-- [Recent Activities](#Recent-Activities)
 - [Personal Loves](#Personal-Loves)
 - [Contact Me](#Contact-Me)
 - [Statistics](#Statistics)
@@ -16,14 +15,6 @@ I'm iCloExecutable but you know me as micraia on discord
 * [iCloExecutable.github.io](https://github.com/iCloExecutable/iCloExecutable.github.io)
 * [iCloOS-Filebrowser-Dump](https://github.com/iCloExecutable/icloos-filebrowser-dump)
 
-## Recent-Activities
-```
-⬆️ Pushed 1 commit to iCloExecutable/iCloExecutable
-⬆️ Pushed 1 commit to iCloExecutable/iCloOS
-⬆️ Pushed 1 commit to iCloExecutable/iCloOS
-⬆️ Pushed 1 commit to iCloExecutable/iCloOS
-⬆️ Pushed 1 commit to iCloExecutable/iCloOS
-```
 ## Personal-Loves
 * [Raspberry Pi](https://www.raspberrypi.org)
 * [Technopat](https://www.technopat.net)
