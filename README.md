@@ -10,7 +10,7 @@ I'm iCloExecutable but you know me as micraia on discord
 
 
 ## Projects
-* [iCloOS-Classic](https://github.com/iCloExecutable/iCloOS-Classic)
+* [iCloOS](https://github.com/iCloExecutable/iCloOS)
 * [iCloTV](http://github.com/icloexecutable/iclotv)
 * [iCloExecutable.github.io](https://github.com/iCloExecutable/iCloExecutable.github.io)
 * [Website](https://github.com/iCloExecutable/iclostudios.ml)
