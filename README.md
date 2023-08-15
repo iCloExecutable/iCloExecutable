@@ -1,8 +1,10 @@
 # Hello 
 
-* I'm iCloExecutable!
-* I live in Turkey 
-* I am not that active anymore
+I'm iCloExecutable!
+<br />
+I live in Turkey 
+<br />
+ I am not that active anymore
 
 ## Contents
 - [Projects](#projects)
