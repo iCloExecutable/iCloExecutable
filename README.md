@@ -1,6 +1,8 @@
-# Hello 👋
+# Hello 
 
-I'm iCloExecutable but you know me as micraia on discord
+I'm iCloExecutable!
+I live in Turkey 
+I am not that active anymore
 
 ## Contents
 - [Projects](#projects)
