@@ -4,7 +4,7 @@ I'm iCloExecutable!
 <br />
 I live in Turkey 
 <br />
- I am not that active anymore
+I have an discord account @micraia
 
 ## Contents
 - [Projects](#projects)
