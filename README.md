@@ -14,7 +14,7 @@ I have an discord account @micraia
 
 
 ## Projects
-* [iCloOS](https://github.com/iCloExecutable/iCloOS)
+* [ui.main](https://github.com/iCloExecutable/iCloOS)
 * [iCloTV](http://github.com/icloexecutable/iclotv)
 * [iCloExecutable.github.io](https://github.com/iCloExecutable/iCloExecutable.github.io)
 * [Website](https://github.com/iCloExecutable/iclostudios.ml)
